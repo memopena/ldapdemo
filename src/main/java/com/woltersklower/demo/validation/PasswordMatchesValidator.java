@@ -1,6 +1,6 @@
 package com.woltersklower.demo.validation;
 
-import com.woltersklower.demo.web.model.User;;
+import com.woltersklower.demo.web.model.User;
 import javax.validation.ConstraintValidator;
 import javax.validation.ConstraintValidatorContext;
 
